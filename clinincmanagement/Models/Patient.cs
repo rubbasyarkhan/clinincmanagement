@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace clinincmanagement.Models;
+﻿namespace clinincmanagement.Models;
 
 public partial class Patient
 {
